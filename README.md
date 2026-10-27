@@ -87,7 +87,7 @@ conn.send(message.encode())
 conn.close()
 server_socket.close()
 ```
-# Client 
+# Client :
 ```
 import socket
 
